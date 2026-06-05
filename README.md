@@ -18,7 +18,7 @@ Instalacja pakietów za pomocą menedżera `pip`:
 
 ```bash
 pip install numpy scipy networkx matplotlib
-
+```
 ## 🛠️ Topologie Grafów i Zestawy Testowe
 
 W kodzie źródłowym przygotowano 5 skrajnie różnych zestawów danych, pozwalających zbadać wpływ geometrii wierzchołków na efektywność algorytmów:
